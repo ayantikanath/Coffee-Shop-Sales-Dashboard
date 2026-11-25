@@ -26,7 +26,7 @@ As a Computer Science Engineering student exploring Data Analytics, this project
 - Data Visualization
   
 ## Dashboard Preview
-![Coffee Shop Sales Dashboard](coffee_sales_dashboard.png)
+![Coffee Shop Sales Dashboard](coffee-sales-dashboard.png)
 ☕ Coffee Shop Sales Analysis Dashboard
 
 ## Key Performance Indicators
